@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ingredients-app/static/css/main.cc68857c.css",
+    "main.js": "/ingredients-app/static/js/main.f419fa01.js",
+    "index.html": "/ingredients-app/index.html",
+    "main.cc68857c.css.map": "/ingredients-app/static/css/main.cc68857c.css.map",
+    "main.f419fa01.js.map": "/ingredients-app/static/js/main.f419fa01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc68857c.css",
+    "static/js/main.f419fa01.js"
+  ]
+}
